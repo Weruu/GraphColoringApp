@@ -365,3 +365,4 @@ namespace GraphColoringApp
         }
     }
 }
+
